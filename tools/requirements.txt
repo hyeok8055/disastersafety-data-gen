@@ -1,0 +1,3 @@
+Faker[all]==22.1.1
+pandas==2.2.2
+notebook==6.5.4

@@ -1,0 +1,251 @@
+﻿request_id,shelter_id,relief_item_id,requested_quantity,current_stock,urgent_quantity,urgency_level,needed_by,status,notes,matched_wish_ids,total_matched_quantity,remaining_quantity,created_at,updated_at
+request_0001,shelter_0051,relief_item_0119,800,695,30,낮음,2025-01-21T01:39:12,매칭완료,Optio blanditiis iure eum beatae.,,0,105,2025-01-13T01:39:12,2025-01-13T01:39:12
+request_0002,shelter_0045,relief_item_0007,504,53,414,중간,2025-06-20T08:57:03,대기중,Provident quo laborum rem laudantium illum.,,0,451,2025-06-06T08:57:03,2025-06-06T08:57:03
+request_0003,shelter_0015,relief_item_0037,366,159,164,중간,2024-12-20T21:47:14,매칭완료,Enim magni suscipit.,,0,207,2024-12-08T21:47:14,2024-12-08T21:47:14
+request_0004,shelter_0067,relief_item_0124,366,243,111,중간,2025-07-20T17:13:04,완료,Aperiam quo ea et hic ipsam.,,0,123,2025-07-09T17:13:04,2025-07-09T17:13:04
+request_0005,shelter_0041,relief_item_0018,317,22,205,높음,2025-02-10T12:41:43,배송중,Totam eaque quas excepturi repellendus.,,0,295,2025-02-10T12:41:43,2025-02-10T12:41:43
+request_0006,shelter_0014,relief_item_0043,962,758,173,낮음,2025-01-08T12:15:38,취소,Illum nemo cumque dignissimos numquam veniam nostrum.,,0,204,2025-01-06T12:15:38,2025-01-06T12:15:38
+request_0007,shelter_0021,relief_item_0085,583,436,88,높음,2025-01-26T17:36:44,완료,Non accusantium quam rem.,,0,147,2025-01-14T17:36:44,2025-01-14T17:36:44
+request_0008,shelter_0024,relief_item_0048,665,442,173,높음,2024-10-24T17:56:57,취소,Totam quisquam mollitia omnis maxime facere.,,0,223,2024-10-13T17:56:57,2024-10-13T17:56:57
+request_0009,shelter_0026,relief_item_0116,616,439,128,높음,2024-12-05T18:19:34,매칭완료,Saepe hic quaerat enim.,,0,177,2024-11-24T18:19:34,2024-11-24T18:19:34
+request_0010,shelter_0027,relief_item_0072,780,720,52,낮음,2024-11-11T09:07:44,취소,Ex dolor quasi velit alias accusantium.,,0,60,2024-11-10T09:07:44,2024-11-10T09:07:44
+request_0011,shelter_0024,relief_item_0094,343,100,185,높음,2025-09-12T21:28:43,완료,Aut id laborum culpa error dolorem quo.,,0,243,2025-09-08T21:28:43,2025-09-08T21:28:43
+request_0012,shelter_0068,relief_item_0081,621,397,146,중간,2024-12-22T17:49:03,대기중,Earum commodi quos.,,0,224,2024-12-13T17:49:03,2024-12-13T17:49:03
+request_0013,shelter_0045,relief_item_0091,875,468,328,높음,2025-06-03T04:20:51,배송중,Consectetur qui earum assumenda asperiores quam.,,0,407,2025-05-21T04:20:51,2025-05-21T04:20:51
+request_0014,shelter_0079,relief_item_0152,96,86,0,중간,2025-07-02T18:41:07,매칭완료,Accusantium quia molestiae ullam atque nihil.,,0,10,2025-07-01T18:41:07,2025-07-01T18:41:07
+request_0015,shelter_0040,relief_item_0030,197,95,14,높음,2025-02-15T14:16:19,완료,Rerum similique quos incidunt quia.,,0,102,2025-02-07T14:16:19,2025-02-07T14:16:19
+request_0016,shelter_0054,relief_item_0153,151,147,0,중간,2025-01-06T01:00:44,완료,Itaque aut voluptas nemo fugiat.,,0,4,2025-01-04T01:00:44,2025-01-04T01:00:44
+request_0017,shelter_0069,relief_item_0045,578,170,346,중간,2025-02-24T12:17:07,매칭완료,Dolore illo eius eligendi.,,0,408,2025-02-22T12:17:07,2025-02-22T12:17:07
+request_0018,shelter_0041,relief_item_0116,644,54,545,높음,2025-06-15T16:02:40,매칭완료,Magni fugit voluptatibus quas veritatis quis quaerat.,,0,590,2025-06-08T16:02:40,2025-06-08T16:02:40
+request_0019,shelter_0025,relief_item_0099,996,575,357,낮음,2025-03-10T08:11:53,완료,Neque ad quo ipsum labore.,,0,421,2025-03-03T08:11:53,2025-03-03T08:11:53
+request_0020,shelter_0063,relief_item_0107,737,454,221,높음,2024-10-22T00:12:22,취소,Ex repellat voluptate atque cumque.,,0,283,2024-10-21T00:12:22,2024-10-21T00:12:22
+request_0021,shelter_0004,relief_item_0057,309,16,258,높음,2025-08-18T13:30:41,배송중,Nisi assumenda illo saepe minima saepe quis.,,0,293,2025-08-10T13:30:41,2025-08-10T13:30:41
+request_0022,shelter_0022,relief_item_0118,589,507,12,낮음,2024-10-02T14:01:40,취소,Dolorum est excepturi corrupti eum natus illo.,,0,82,2024-10-01T14:01:40,2024-10-01T14:01:40
+request_0023,shelter_0015,relief_item_0069,803,556,201,낮음,2024-09-23T20:39:56,대기중,Porro quidem recusandae molestias est.,,0,247,2024-09-10T20:39:56,2024-09-10T20:39:56
+request_0024,shelter_0057,relief_item_0140,233,108,112,낮음,2025-06-01T21:53:38,매칭완료,Eum quae maiores similique voluptatibus.,,0,125,2025-05-19T21:53:38,2025-05-19T21:53:38
+request_0025,shelter_0039,relief_item_0009,470,134,292,높음,2024-10-17T07:45:20,대기중,Incidunt aspernatur consectetur accusamus.,,0,336,2024-10-10T07:45:20,2024-10-10T07:45:20
+request_0026,shelter_0031,relief_item_0054,840,755,10,낮음,2025-04-03T14:54:57,취소,Cumque ipsa voluptas aliquam.,,0,85,2025-03-29T14:54:57,2025-03-29T14:54:57
+request_0027,shelter_0055,relief_item_0043,640,142,398,높음,2025-03-05T10:23:52,매칭완료,Cupiditate rem laborum quibusdam molestias id error.,,0,498,2025-02-20T10:23:52,2025-02-20T10:23:52
+request_0028,shelter_0008,relief_item_0146,369,272,62,낮음,2025-03-04T19:41:42,매칭완료,Quam sunt earum eum suscipit.,,0,97,2025-02-24T19:41:42,2025-02-24T19:41:42
+request_0029,shelter_0042,relief_item_0075,306,293,0,낮음,2025-04-29T15:49:36,대기중,Consequuntur minima dignissimos nostrum.,,0,13,2025-04-15T15:49:36,2025-04-15T15:49:36
+request_0030,shelter_0018,relief_item_0106,950,60,855,낮음,2025-06-15T04:07:15,매칭완료,Maxime dolorum iure vel unde quam.,,0,890,2025-06-13T04:07:15,2025-06-13T04:07:15
+request_0031,shelter_0032,relief_item_0038,738,329,378,낮음,2025-08-11T17:38:28,완료,Cum quaerat labore et.,,0,409,2025-08-05T17:38:28,2025-08-05T17:38:28
+request_0032,shelter_0019,relief_item_0148,657,275,302,중간,2024-11-23T07:14:18,완료,Iusto voluptatibus ab praesentium.,,0,382,2024-11-17T07:14:18,2024-11-17T07:14:18
+request_0033,shelter_0010,relief_item_0024,422,263,64,중간,2024-12-06T02:02:31,배송중,Modi ex aperiam iusto.,,0,159,2024-11-25T02:02:31,2024-11-25T02:02:31
+request_0034,shelter_0059,relief_item_0125,345,297,48,낮음,2024-11-09T10:58:51,완료,Expedita nam dolorem occaecati.,,0,48,2024-11-08T10:58:51,2024-11-08T10:58:51
+request_0035,shelter_0046,relief_item_0017,824,547,227,높음,2025-09-10T01:11:48,매칭완료,Earum reprehenderit sint nesciunt esse.,,0,277,2025-09-04T01:11:48,2025-09-04T01:11:48
+request_0036,shelter_0064,relief_item_0069,340,145,152,낮음,2025-05-18T05:30:13,매칭완료,Vel natus odit dicta nihil aut.,,0,195,2025-05-09T05:30:13,2025-05-09T05:30:13
+request_0037,shelter_0073,relief_item_0125,817,351,379,높음,2024-12-01T18:06:49,대기중,Debitis natus consectetur minima officia.,,0,466,2024-12-01T18:06:49,2024-12-01T18:06:49
+request_0038,shelter_0059,relief_item_0005,137,40,41,중간,2025-02-04T10:03:11,완료,Nemo sequi non vitae qui nulla.,,0,97,2025-02-04T10:03:11,2025-02-04T10:03:11
+request_0039,shelter_0026,relief_item_0034,913,665,210,높음,2025-09-09T19:22:06,배송중,Distinctio a doloremque dolor ut nostrum corporis.,,0,248,2025-08-27T19:22:06,2025-08-27T19:22:06
+request_0040,shelter_0012,relief_item_0093,266,42,177,낮음,2025-03-26T08:22:43,매칭완료,Eum tempore amet.,,0,224,2025-03-12T08:22:43,2025-03-12T08:22:43
+request_0041,shelter_0007,relief_item_0102,650,312,246,낮음,2025-04-07T10:10:18,매칭완료,Incidunt iusto esse quis dolores hic.,,0,338,2025-03-26T10:10:18,2025-03-26T10:10:18
+request_0042,shelter_0055,relief_item_0024,730,97,633,높음,2025-07-13T06:11:12,대기중,Provident explicabo saepe et aspernatur non.,,0,633,2025-07-06T06:11:12,2025-07-06T06:11:12
+request_0043,shelter_0017,relief_item_0152,241,132,22,중간,2024-11-30T18:25:10,대기중,Veniam rerum quae saepe.,,0,109,2024-11-30T18:25:10,2024-11-30T18:25:10
+request_0044,shelter_0044,relief_item_0031,890,432,370,높음,2025-04-21T08:50:23,대기중,Laudantium ratione placeat nam ipsa expedita.,,0,458,2025-04-14T08:50:23,2025-04-14T08:50:23
+request_0045,shelter_0030,relief_item_0099,101,93,0,높음,2024-09-23T12:30:16,배송중,Sequi quo exercitationem incidunt nulla soluta.,,0,8,2024-09-18T12:30:16,2024-09-18T12:30:16
+request_0046,shelter_0039,relief_item_0036,401,396,0,높음,2025-09-11T05:24:16,매칭완료,Fugit debitis quibusdam ab ipsam.,,0,5,2025-09-01T05:24:16,2025-09-01T05:24:16
+request_0047,shelter_0009,relief_item_0136,586,8,500,낮음,2025-04-02T23:25:57,완료,Ab est atque fuga ducimus.,,0,578,2025-03-31T23:25:57,2025-03-31T23:25:57
+request_0048,shelter_0045,relief_item_0055,653,155,446,낮음,2025-09-11T14:19:54,완료,Non alias eius.,,0,498,2025-09-01T14:19:54,2025-09-01T14:19:54
+request_0049,shelter_0028,relief_item_0023,928,102,809,높음,2025-03-22T14:51:55,완료,Aliquam possimus ducimus numquam voluptas reprehenderit.,,0,826,2025-03-13T14:51:55,2025-03-13T14:51:55
+request_0050,shelter_0045,relief_item_0110,332,71,230,중간,2025-08-19T22:12:12,대기중,Voluptatum odio laudantium labore soluta quibusdam rem.,,0,261,2025-08-09T22:12:12,2025-08-09T22:12:12
+request_0051,shelter_0032,relief_item_0142,625,614,0,낮음,2024-09-27T12:43:23,대기중,Adipisci tempora corrupti quasi sit consectetur.,,0,11,2024-09-23T12:43:23,2024-09-23T12:43:23
+request_0052,shelter_0039,relief_item_0053,540,521,0,낮음,2025-02-24T15:25:58,배송중,Animi odit aperiam atque.,,0,19,2025-02-18T15:25:58,2025-02-18T15:25:58
+request_0053,shelter_0007,relief_item_0062,516,395,107,높음,2025-04-14T23:57:31,취소,Voluptatem deserunt nostrum accusantium saepe.,,0,121,2025-04-07T23:57:31,2025-04-07T23:57:31
+request_0054,shelter_0010,relief_item_0136,920,12,862,중간,2025-08-06T02:48:35,완료,Tempore cumque voluptates quam facilis accusamus.,,0,908,2025-08-04T02:48:35,2025-08-04T02:48:35
+request_0055,shelter_0073,relief_item_0108,384,279,18,높음,2025-06-05T18:16:42,완료,Impedit pariatur aperiam deserunt quis corporis.,,0,105,2025-05-24T18:16:42,2025-05-24T18:16:42
+request_0056,shelter_0010,relief_item_0005,611,69,541,중간,2024-12-24T05:57:36,대기중,Cupiditate aliquid non porro.,,0,542,2024-12-21T05:57:36,2024-12-21T05:57:36
+request_0057,shelter_0008,relief_item_0102,528,293,155,낮음,2025-02-22T15:14:01,완료,Odio sapiente velit est.,,0,235,2025-02-14T15:14:01,2025-02-14T15:14:01
+request_0058,shelter_0055,relief_item_0103,94,81,0,낮음,2025-04-23T09:31:30,매칭완료,Blanditiis iure saepe assumenda ut at.,,0,13,2025-04-14T09:31:30,2025-04-14T09:31:30
+request_0059,shelter_0036,relief_item_0022,327,40,222,높음,2025-09-12T05:12:59,매칭완료,Delectus assumenda et occaecati.,,0,287,2025-08-31T05:12:59,2025-08-31T05:12:59
+request_0060,shelter_0069,relief_item_0084,410,300,29,낮음,2024-09-26T12:08:50,대기중,Ratione dolor fugiat aspernatur.,,0,110,2024-09-16T12:08:50,2024-09-16T12:08:50
+request_0061,shelter_0040,relief_item_0112,757,244,506,높음,2025-06-17T23:28:54,완료,Est perspiciatis velit sint quibusdam.,,0,513,2025-06-16T23:28:54,2025-06-16T23:28:54
+request_0062,shelter_0015,relief_item_0117,636,623,6,중간,2025-07-02T08:25:16,매칭완료,Est fugit enim eius.,,0,13,2025-06-22T08:25:16,2025-06-22T08:25:16
+request_0063,shelter_0016,relief_item_0004,734,140,505,높음,2025-04-18T03:17:13,완료,Impedit saepe earum dicta voluptatem ea.,,0,594,2025-04-16T03:17:13,2025-04-16T03:17:13
+request_0064,shelter_0045,relief_item_0134,539,265,253,중간,2025-02-28T10:05:11,배송중,At explicabo facilis quo minima.,,0,274,2025-02-26T10:05:11,2025-02-26T10:05:11
+request_0065,shelter_0016,relief_item_0008,353,219,100,낮음,2025-07-28T20:14:02,배송중,Porro cupiditate veniam nesciunt culpa necessitatibus voluptatibus inventore.,,0,134,2025-07-27T20:14:02,2025-07-27T20:14:02
+request_0066,shelter_0074,relief_item_0020,518,466,0,중간,2025-05-17T13:57:49,완료,Dignissimos praesentium magnam rerum recusandae.,,0,52,2025-05-17T13:57:49,2025-05-17T13:57:49
+request_0067,shelter_0073,relief_item_0043,386,80,274,높음,2024-10-27T22:39:15,취소,Quo ducimus iusto adipisci beatae omnis delectus.,,0,306,2024-10-13T22:39:15,2024-10-13T22:39:15
+request_0068,shelter_0015,relief_item_0059,768,521,247,높음,2024-11-14T23:54:21,대기중,Nesciunt fuga fugiat nihil alias praesentium occaecati.,,0,247,2024-11-01T23:54:21,2024-11-01T23:54:21
+request_0069,shelter_0032,relief_item_0012,493,186,258,높음,2025-08-14T07:28:03,대기중,Culpa labore excepturi.,,0,307,2025-08-12T07:28:03,2025-08-12T07:28:03
+request_0070,shelter_0071,relief_item_0108,239,82,126,중간,2025-09-08T09:06:55,배송중,Deleniti facere cum molestias.,,0,157,2025-08-25T09:06:55,2025-08-25T09:06:55
+request_0071,shelter_0035,relief_item_0020,595,381,199,낮음,2025-07-07T18:18:07,대기중,Ipsa nulla nisi.,,0,214,2025-06-27T18:18:07,2025-06-27T18:18:07
+request_0072,shelter_0023,relief_item_0058,833,528,300,중간,2025-06-06T09:55:39,완료,Quasi labore doloribus quam nobis laboriosam.,,0,305,2025-06-05T09:55:39,2025-06-05T09:55:39
+request_0073,shelter_0037,relief_item_0080,345,44,231,중간,2025-02-11T11:45:03,배송중,Aliquam ut doloremque vel unde.,,0,301,2025-02-11T11:45:03,2025-02-11T11:45:03
+request_0074,shelter_0026,relief_item_0075,587,311,182,낮음,2024-10-23T14:01:02,완료,Incidunt earum neque nihil cum cumque.,,0,276,2024-10-20T14:01:02,2024-10-20T14:01:02
+request_0075,shelter_0048,relief_item_0152,515,200,222,낮음,2025-01-15T10:22:02,매칭완료,Vitae velit dicta voluptas quibusdam consectetur ex vero.,,0,315,2025-01-03T10:22:02,2025-01-03T10:22:02
+request_0076,shelter_0020,relief_item_0002,964,419,542,높음,2024-10-21T19:18:34,배송중,Recusandae consequuntur exercitationem id itaque.,,0,545,2024-10-13T19:18:34,2024-10-13T19:18:34
+request_0077,shelter_0002,relief_item_0086,11,10,0,낮음,2025-06-02T11:24:36,배송중,Dicta cupiditate esse delectus.,,0,1,2025-05-22T11:24:36,2025-05-22T11:24:36
+request_0078,shelter_0014,relief_item_0053,552,243,256,중간,2025-08-07T19:39:22,매칭완료,Ipsa quam culpa nam quod.,,0,309,2025-08-07T19:39:22,2025-08-07T19:39:22
+request_0079,shelter_0036,relief_item_0024,54,14,0,중간,2024-09-21T14:49:18,배송중,Culpa aut mollitia hic distinctio iusto fugiat.,,0,40,2024-09-10T14:49:18,2024-09-10T14:49:18
+request_0080,shelter_0059,relief_item_0022,604,97,443,높음,2025-03-17T16:43:00,완료,Quis atque consectetur quis consequatur.,,0,507,2025-03-07T16:43:00,2025-03-07T16:43:00
+request_0081,shelter_0010,relief_item_0152,591,63,473,낮음,2025-07-08T00:02:33,매칭완료,Tempore reprehenderit quas incidunt hic asperiores.,,0,528,2025-07-06T00:02:33,2025-07-06T00:02:33
+request_0082,shelter_0038,relief_item_0067,881,322,509,낮음,2025-03-30T08:06:21,배송중,Ad suscipit debitis doloremque facere magnam a nobis.,,0,559,2025-03-17T08:06:21,2025-03-17T08:06:21
+request_0083,shelter_0041,relief_item_0116,288,119,160,높음,2025-02-12T08:02:48,취소,Officia consequuntur deleniti distinctio.,,0,169,2025-02-10T08:02:48,2025-02-10T08:02:48
+request_0084,shelter_0014,relief_item_0040,118,21,40,중간,2025-03-01T18:57:39,완료,Excepturi omnis incidunt eligendi.,,0,97,2025-02-24T18:57:39,2025-02-24T18:57:39
+request_0085,shelter_0016,relief_item_0138,376,106,213,중간,2025-02-12T22:06:53,배송중,Alias vero in cum placeat rerum iure.,,0,270,2025-02-05T22:06:53,2025-02-05T22:06:53
+request_0086,shelter_0016,relief_item_0024,171,77,4,낮음,2024-10-19T18:59:53,대기중,Placeat aut similique rem accusamus eum.,,0,94,2024-10-10T18:59:53,2024-10-10T18:59:53
+request_0087,shelter_0028,relief_item_0084,161,23,47,높음,2025-04-24T21:09:34,완료,Fugit iste laborum vero illo quo esse.,,0,138,2025-04-19T21:09:34,2025-04-19T21:09:34
+request_0088,shelter_0066,relief_item_0013,703,306,364,높음,2024-12-18T03:31:00,완료,Nobis rem ipsum fuga.,,0,397,2024-12-18T03:31:00,2024-12-18T03:31:00
+request_0089,shelter_0058,relief_item_0143,776,563,182,높음,2025-03-18T14:30:49,대기중,Sapiente voluptas beatae debitis incidunt quis.,,0,213,2025-03-11T14:30:49,2025-03-11T14:30:49
+request_0090,shelter_0018,relief_item_0032,22,1,0,높음,2025-08-14T16:39:00,매칭완료,Corrupti excepturi vel nihil.,,0,21,2025-08-12T16:39:00,2025-08-12T16:39:00
+request_0091,shelter_0052,relief_item_0096,712,645,0,높음,2024-12-03T10:37:12,취소,Repellat quas iste aliquid eligendi commodi laudantium.,,0,67,2024-11-24T10:37:12,2024-11-24T10:37:12
+request_0092,shelter_0034,relief_item_0020,32,4,3,낮음,2025-02-05T06:23:29,매칭완료,Suscipit placeat dolorum.,,0,28,2025-01-29T06:23:29,2025-01-29T06:23:29
+request_0093,shelter_0012,relief_item_0085,135,10,66,높음,2025-01-19T18:06:16,취소,Quisquam ad eaque eos impedit.,,0,125,2025-01-17T18:06:16,2025-01-17T18:06:16
+request_0094,shelter_0056,relief_item_0102,518,30,440,낮음,2025-03-07T04:55:57,매칭완료,Error alias beatae quasi minus id.,,0,488,2025-03-01T04:55:57,2025-03-01T04:55:57
+request_0095,shelter_0046,relief_item_0055,940,191,714,중간,2024-11-22T18:01:44,매칭완료,Modi commodi corporis laudantium.,,0,749,2024-11-15T18:01:44,2024-11-15T18:01:44
+request_0096,shelter_0005,relief_item_0158,644,631,0,낮음,2025-08-25T09:27:20,완료,Exercitationem itaque nulla ullam temporibus.,,0,13,2025-08-21T09:27:20,2025-08-21T09:27:20
+request_0097,shelter_0053,relief_item_0141,500,31,458,중간,2025-09-11T18:05:05,매칭완료,Necessitatibus aliquam eveniet alias non quam repellat.,,0,469,2025-09-05T18:05:05,2025-09-05T18:05:05
+request_0098,shelter_0054,relief_item_0052,668,538,99,낮음,2024-10-29T23:15:54,취소,Maiores quas excepturi odio error id.,,0,130,2024-10-17T23:15:54,2024-10-17T23:15:54
+request_0099,shelter_0003,relief_item_0098,810,730,35,중간,2024-11-27T03:05:17,완료,Quam quia aspernatur totam vitae.,,0,80,2024-11-19T03:05:17,2024-11-19T03:05:17
+request_0100,shelter_0045,relief_item_0145,524,329,146,중간,2025-07-15T22:02:19,대기중,Necessitatibus voluptatum nulla molestiae recusandae.,,0,195,2025-07-13T22:02:19,2025-07-13T22:02:19
+request_0101,shelter_0041,relief_item_0153,234,7,128,중간,2025-06-05T07:40:42,완료,Fugiat labore quis.,,0,227,2025-06-05T07:40:42,2025-06-05T07:40:42
+request_0102,shelter_0068,relief_item_0092,795,598,168,높음,2025-02-26T09:21:41,매칭완료,Quia quod eius perferendis non.,,0,197,2025-02-25T09:21:41,2025-02-25T09:21:41
+request_0103,shelter_0031,relief_item_0069,556,57,402,높음,2025-09-06T00:11:03,완료,Perspiciatis earum illum accusantium.,,0,499,2025-08-28T00:11:03,2025-08-28T00:11:03
+request_0104,shelter_0046,relief_item_0045,190,60,55,중간,2025-02-28T14:31:13,배송중,Eius iure ratione odio.,,0,130,2025-02-16T14:31:13,2025-02-16T14:31:13
+request_0105,shelter_0076,relief_item_0008,730,717,0,낮음,2024-10-25T10:12:54,매칭완료,Dolore quae dolore nostrum quas.,,0,13,2024-10-16T10:12:54,2024-10-16T10:12:54
+request_0106,shelter_0073,relief_item_0049,866,829,0,낮음,2025-05-07T07:58:16,매칭완료,Nihil odio eveniet harum ut accusamus excepturi.,,0,37,2025-05-03T07:58:16,2025-05-03T07:58:16
+request_0107,shelter_0063,relief_item_0010,102,7,66,낮음,2025-01-24T05:06:03,대기중,Corrupti sequi libero minus cumque harum.,,0,95,2025-01-21T05:06:03,2025-01-21T05:06:03
+request_0108,shelter_0068,relief_item_0123,10,5,0,높음,2025-02-24T04:23:22,매칭완료,Optio necessitatibus aspernatur.,,0,5,2025-02-12T04:23:22,2025-02-12T04:23:22
+request_0109,shelter_0044,relief_item_0046,950,821,88,높음,2025-03-16T15:36:02,매칭완료,Voluptates assumenda quibusdam minus esse quibusdam iste.,,0,129,2025-03-16T15:36:02,2025-03-16T15:36:02
+request_0110,shelter_0076,relief_item_0037,802,113,622,중간,2025-03-10T05:01:53,배송중,Culpa nesciunt numquam.,,0,689,2025-03-09T05:01:53,2025-03-09T05:01:53
+request_0111,shelter_0051,relief_item_0151,113,43,32,중간,2025-04-18T01:54:43,매칭완료,Impedit quisquam quibusdam eligendi quia voluptatibus.,,0,70,2025-04-16T01:54:43,2025-04-16T01:54:43
+request_0112,shelter_0056,relief_item_0125,674,324,328,낮음,2025-02-09T10:38:11,취소,Consectetur non sed atque dolor voluptatibus necessitatibus.,,0,350,2025-02-01T10:38:11,2025-02-01T10:38:11
+request_0113,shelter_0046,relief_item_0058,691,603,66,중간,2024-11-21T01:36:53,배송중,Quisquam voluptates voluptatem mollitia.,,0,88,2024-11-17T01:36:53,2024-11-17T01:36:53
+request_0114,shelter_0017,relief_item_0046,756,1,666,낮음,2025-01-29T09:50:25,취소,In nobis eum facilis autem.,,0,755,2025-01-23T09:50:25,2025-01-23T09:50:25
+request_0115,shelter_0005,relief_item_0047,626,325,223,높음,2025-08-28T07:16:26,취소,Magnam minus dolore illo quidem enim.,,0,301,2025-08-18T07:16:26,2025-08-18T07:16:26
+request_0116,shelter_0014,relief_item_0128,154,84,0,높음,2025-09-05T18:10:00,배송중,Culpa sit id a rerum quis omnis.,,0,70,2025-09-02T18:10:00,2025-09-02T18:10:00
+request_0117,shelter_0041,relief_item_0043,661,90,481,낮음,2025-06-11T02:01:59,배송중,Fugit officiis voluptate illum.,,0,571,2025-06-01T02:01:59,2025-06-01T02:01:59
+request_0118,shelter_0058,relief_item_0003,281,107,143,낮음,2025-05-14T20:34:05,배송중,Nulla consequuntur nulla.,,0,174,2025-05-13T20:34:05,2025-05-13T20:34:05
+request_0119,shelter_0033,relief_item_0028,747,1,740,중간,2024-10-16T23:06:05,완료,Necessitatibus illum ad non cumque numquam placeat veritatis.,,0,746,2024-10-09T23:06:05,2024-10-09T23:06:05
+request_0120,shelter_0022,relief_item_0106,514,387,83,낮음,2024-09-23T12:29:39,대기중,Sunt omnis mollitia sint sed cum fuga soluta.,,0,127,2024-09-17T12:29:39,2024-09-17T12:29:39
+request_0121,shelter_0062,relief_item_0148,676,230,426,중간,2024-11-16T17:49:04,대기중,Vel ullam eum eos tempora dignissimos itaque.,,0,446,2024-11-15T17:49:04,2024-11-15T17:49:04
+request_0122,shelter_0038,relief_item_0006,336,133,190,높음,2024-12-17T20:44:10,매칭완료,Ipsam doloribus debitis itaque odit rem saepe sit.,,0,203,2024-12-12T20:44:10,2024-12-12T20:44:10
+request_0123,shelter_0049,relief_item_0042,759,76,613,높음,2025-09-01T16:05:45,취소,Doloribus quam architecto quibusdam.,,0,683,2025-08-27T16:05:45,2025-08-27T16:05:45
+request_0124,shelter_0079,relief_item_0124,731,31,645,낮음,2025-06-02T13:39:13,취소,Sint voluptatum similique architecto impedit ea.,,0,700,2025-05-31T13:39:13,2025-05-31T13:39:13
+request_0125,shelter_0056,relief_item_0041,64,12,10,높음,2025-06-16T18:07:06,완료,Commodi quod officia modi ad laboriosam quas.,,0,52,2025-06-13T18:07:06,2025-06-13T18:07:06
+request_0126,shelter_0071,relief_item_0139,281,144,99,높음,2025-01-01T11:20:48,대기중,Repudiandae quam aliquam id unde occaecati.,,0,137,2024-12-31T11:20:48,2024-12-31T11:20:48
+request_0127,shelter_0051,relief_item_0147,572,502,51,높음,2025-03-03T14:15:26,대기중,Ratione aut sed quidem neque recusandae.,,0,70,2025-02-26T14:15:26,2025-02-26T14:15:26
+request_0128,shelter_0055,relief_item_0023,311,307,0,높음,2025-06-17T02:12:24,대기중,Facilis omnis consequuntur doloribus.,,0,4,2025-06-16T02:12:24,2025-06-16T02:12:24
+request_0129,shelter_0027,relief_item_0044,663,298,355,중간,2025-03-28T02:48:26,대기중,Eaque ex possimus itaque quae.,,0,365,2025-03-15T02:48:26,2025-03-15T02:48:26
+request_0130,shelter_0040,relief_item_0102,492,250,158,중간,2025-06-28T22:33:52,취소,Quidem exercitationem porro ex ipsum.,,0,242,2025-06-27T22:33:52,2025-06-27T22:33:52
+request_0131,shelter_0050,relief_item_0048,389,195,147,높음,2024-12-24T20:44:17,대기중,Eius alias consequuntur maxime ad sunt natus.,,0,194,2024-12-17T20:44:17,2024-12-17T20:44:17
+request_0132,shelter_0034,relief_item_0113,486,134,324,중간,2025-06-21T21:51:37,대기중,Esse quaerat necessitatibus esse quae.,,0,352,2025-06-12T21:51:37,2025-06-12T21:51:37
+request_0133,shelter_0020,relief_item_0025,97,85,0,낮음,2025-06-03T04:08:43,취소,Culpa rem consectetur non similique.,,0,12,2025-05-28T04:08:43,2025-05-28T04:08:43
+request_0134,shelter_0030,relief_item_0142,72,49,0,중간,2024-12-25T14:59:47,완료,Adipisci distinctio esse nesciunt ea.,,0,23,2024-12-17T14:59:47,2024-12-17T14:59:47
+request_0135,shelter_0074,relief_item_0061,497,153,334,중간,2025-06-29T18:14:20,대기중,Quia voluptatum illo nulla cupiditate exercitationem culpa.,,0,344,2025-06-15T18:14:20,2025-06-15T18:14:20
+request_0136,shelter_0065,relief_item_0147,932,529,330,낮음,2025-08-14T19:38:19,매칭완료,Et fugiat sint laborum cumque minima cupiditate.,,0,403,2025-08-05T19:38:19,2025-08-05T19:38:19
+request_0137,shelter_0016,relief_item_0115,187,42,118,높음,2025-08-25T02:37:27,대기중,Accusamus veniam exercitationem est dolore eius.,,0,145,2025-08-23T02:37:27,2025-08-23T02:37:27
+request_0138,shelter_0055,relief_item_0021,709,445,239,낮음,2025-07-09T20:21:08,취소,Officiis explicabo itaque totam.,,0,264,2025-07-07T20:21:08,2025-07-07T20:21:08
+request_0139,shelter_0034,relief_item_0082,942,744,190,높음,2025-09-01T16:04:48,취소,Saepe sapiente quos.,,0,198,2025-08-26T16:04:48,2025-08-26T16:04:48
+request_0140,shelter_0051,relief_item_0142,343,141,136,중간,2025-04-14T05:52:11,대기중,Qui facilis adipisci occaecati veritatis.,,0,202,2025-03-31T05:52:11,2025-03-31T05:52:11
+request_0141,shelter_0080,relief_item_0151,545,429,102,중간,2025-03-26T18:11:51,매칭완료,Earum vitae sed modi.,,0,116,2025-03-24T18:11:51,2025-03-24T18:11:51
+request_0142,shelter_0073,relief_item_0151,606,102,491,낮음,2024-10-21T13:14:07,대기중,Ipsum minima doloribus reiciendis.,,0,504,2024-10-09T13:14:07,2024-10-09T13:14:07
+request_0143,shelter_0037,relief_item_0138,911,352,507,중간,2024-11-24T15:28:38,완료,Dolorem quaerat debitis voluptatem eaque.,,0,559,2024-11-18T15:28:38,2024-11-18T15:28:38
+request_0144,shelter_0074,relief_item_0156,494,19,453,중간,2024-12-31T11:00:07,매칭완료,Quia quasi totam temporibus.,,0,475,2024-12-25T11:00:07,2024-12-25T11:00:07
+request_0145,shelter_0080,relief_item_0156,707,411,292,중간,2024-11-13T04:10:43,배송중,Esse dignissimos doloribus quis labore atque sunt.,,0,296,2024-10-30T04:10:43,2024-10-30T04:10:43
+request_0146,shelter_0031,relief_item_0013,773,486,253,중간,2024-09-28T12:51:33,배송중,Ratione asperiores laboriosam ipsam labore aut.,,0,287,2024-09-28T12:51:33,2024-09-28T12:51:33
+request_0147,shelter_0039,relief_item_0080,297,251,0,낮음,2025-04-26T14:06:51,매칭완료,Nisi error ab inventore temporibus.,,0,46,2025-04-25T14:06:51,2025-04-25T14:06:51
+request_0148,shelter_0018,relief_item_0077,771,453,219,중간,2025-06-19T07:26:47,완료,Quod deserunt rem nostrum itaque a.,,0,318,2025-06-15T07:26:47,2025-06-15T07:26:47
+request_0149,shelter_0078,relief_item_0023,202,113,62,중간,2025-07-09T17:44:39,완료,Nobis laudantium debitis magni maiores veritatis.,,0,89,2025-06-28T17:44:39,2025-06-28T17:44:39
+request_0150,shelter_0067,relief_item_0096,850,57,728,높음,2025-01-04T01:33:17,배송중,Sint dolorum eius natus est.,,0,793,2025-01-03T01:33:17,2025-01-03T01:33:17
+request_0151,shelter_0065,relief_item_0104,148,134,0,높음,2025-02-28T14:14:18,매칭완료,Voluptate veniam laborum eum.,,0,14,2025-02-26T14:14:18,2025-02-26T14:14:18
+request_0152,shelter_0026,relief_item_0015,265,16,191,높음,2025-04-08T14:03:50,배송중,Libero debitis quis perferendis atque similique exercitationem.,,0,249,2025-03-25T14:03:50,2025-03-25T14:03:50
+request_0153,shelter_0026,relief_item_0071,387,237,86,중간,2025-06-12T11:39:15,대기중,Reprehenderit deserunt autem doloremque esse esse quisquam.,,0,150,2025-06-02T11:39:15,2025-06-02T11:39:15
+request_0154,shelter_0004,relief_item_0062,391,250,65,중간,2025-03-12T22:55:58,완료,Placeat unde distinctio perferendis.,,0,141,2025-03-10T22:55:58,2025-03-10T22:55:58
+request_0155,shelter_0076,relief_item_0142,368,176,172,중간,2025-01-23T10:26:44,대기중,Deleniti id cupiditate culpa.,,0,192,2025-01-12T10:26:44,2025-01-12T10:26:44
+request_0156,shelter_0037,relief_item_0008,405,25,360,낮음,2025-06-05T00:31:35,매칭완료,Eveniet maiores labore nisi.,,0,380,2025-05-24T00:31:35,2025-05-24T00:31:35
+request_0157,shelter_0029,relief_item_0058,703,211,458,낮음,2025-02-23T14:36:29,취소,Dolorem ea vel rerum fuga.,,0,492,2025-02-17T14:36:29,2025-02-17T14:36:29
+request_0158,shelter_0003,relief_item_0003,495,466,13,낮음,2025-01-07T15:01:32,취소,Quas repudiandae et est natus quis.,,0,29,2025-01-05T15:01:32,2025-01-05T15:01:32
+request_0159,shelter_0002,relief_item_0058,268,156,21,낮음,2024-09-20T21:36:17,배송중,Animi illum officia consequuntur itaque earum.,,0,112,2024-09-10T21:36:17,2024-09-10T21:36:17
+request_0160,shelter_0055,relief_item_0097,882,357,467,중간,2025-07-26T14:00:51,완료,Dignissimos quaerat eos fuga eum.,,0,525,2025-07-23T14:00:51,2025-07-23T14:00:51
+request_0161,shelter_0039,relief_item_0134,854,638,166,낮음,2025-07-13T20:38:29,대기중,Eveniet nam dicta dolor magnam sequi.,,0,216,2025-07-12T20:38:29,2025-07-12T20:38:29
+request_0162,shelter_0066,relief_item_0096,584,289,257,낮음,2024-10-21T04:30:12,완료,Doloribus eveniet laboriosam quam.,,0,295,2024-10-20T04:30:12,2024-10-20T04:30:12
+request_0163,shelter_0009,relief_item_0087,293,166,92,중간,2025-03-20T04:15:18,배송중,Quos harum vero.,,0,127,2025-03-10T04:15:18,2025-03-10T04:15:18
+request_0164,shelter_0025,relief_item_0039,539,246,286,낮음,2025-06-16T01:41:04,배송중,Dolorum voluptates nesciunt animi animi exercitationem modi.,,0,293,2025-06-10T01:41:04,2025-06-10T01:41:04
+request_0165,shelter_0018,relief_item_0007,681,509,135,중간,2025-03-11T20:20:53,완료,Beatae consequatur quibusdam eveniet quod.,,0,172,2025-02-25T20:20:53,2025-02-25T20:20:53
+request_0166,shelter_0052,relief_item_0100,764,36,654,낮음,2025-02-25T09:25:03,매칭완료,Soluta nihil nemo natus.,,0,728,2025-02-16T09:25:03,2025-02-16T09:25:03
+request_0167,shelter_0044,relief_item_0057,712,547,84,중간,2025-03-11T21:37:24,배송중,Eveniet molestias optio nam repellendus.,,0,165,2025-02-25T21:37:24,2025-02-25T21:37:24
+request_0168,shelter_0065,relief_item_0077,875,174,617,낮음,2025-06-05T11:59:33,배송중,Consequuntur quo sit.,,0,701,2025-06-03T11:59:33,2025-06-03T11:59:33
+request_0169,shelter_0013,relief_item_0121,141,66,0,낮음,2025-06-19T06:13:39,매칭완료,Vero facere quo quibusdam dolor eum.,,0,75,2025-06-07T06:13:39,2025-06-07T06:13:39
+request_0170,shelter_0043,relief_item_0023,237,90,119,낮음,2024-12-19T02:53:08,배송중,Facere dicta voluptas ea nobis ut consequuntur.,,0,147,2024-12-06T02:53:08,2024-12-06T02:53:08
+request_0171,shelter_0054,relief_item_0085,390,133,183,중간,2025-05-23T02:50:45,대기중,Incidunt rem reiciendis rerum animi voluptatibus.,,0,257,2025-05-16T02:50:45,2025-05-16T02:50:45
+request_0172,shelter_0061,relief_item_0014,897,649,174,낮음,2025-02-09T17:45:59,대기중,Natus voluptatum vero.,,0,248,2025-01-31T17:45:59,2025-01-31T17:45:59
+request_0173,shelter_0061,relief_item_0050,522,122,313,중간,2025-08-21T18:26:12,배송중,Ratione laudantium nemo odio quasi natus.,,0,400,2025-08-13T18:26:12,2025-08-13T18:26:12
+request_0174,shelter_0053,relief_item_0014,901,874,8,높음,2025-04-16T12:22:44,배송중,Minus reiciendis sed assumenda.,,0,27,2025-04-13T12:22:44,2025-04-13T12:22:44
+request_0175,shelter_0053,relief_item_0146,924,468,438,중간,2025-09-14T23:01:37,매칭완료,Nostrum voluptatibus quibusdam quisquam inventore eius iste.,,0,456,2025-09-01T23:01:37,2025-09-01T23:01:37
+request_0176,shelter_0011,relief_item_0125,350,323,5,중간,2025-08-26T15:57:58,대기중,Officiis asperiores officia excepturi.,,0,27,2025-08-16T15:57:58,2025-08-16T15:57:58
+request_0177,shelter_0001,relief_item_0116,290,107,86,높음,2025-04-10T15:23:01,매칭완료,Suscipit illo eos numquam harum ab.,,0,183,2025-04-01T15:23:01,2025-04-01T15:23:01
+request_0178,shelter_0063,relief_item_0023,142,111,0,중간,2025-01-17T21:34:21,완료,Corrupti sequi nesciunt quisquam minus officiis.,,0,31,2025-01-11T21:34:21,2025-01-11T21:34:21
+request_0179,shelter_0062,relief_item_0099,14,0,0,높음,2024-12-06T11:57:30,배송중,Unde tempora quaerat nemo deleniti corporis est.,,0,14,2024-11-25T11:57:30,2024-11-25T11:57:30
+request_0180,shelter_0002,relief_item_0083,785,543,218,높음,2024-10-27T21:09:23,대기중,Modi velit aliquam.,,0,242,2024-10-17T21:09:23,2024-10-17T21:09:23
+request_0181,shelter_0032,relief_item_0058,720,352,329,높음,2024-10-29T03:28:28,완료,Expedita architecto sit unde omnis dicta cum.,,0,368,2024-10-28T03:28:28,2024-10-28T03:28:28
+request_0182,shelter_0065,relief_item_0151,323,85,230,높음,2024-12-26T23:21:45,배송중,Vel dolor explicabo consequatur tempore.,,0,238,2024-12-22T23:21:45,2024-12-22T23:21:45
+request_0183,shelter_0059,relief_item_0134,620,536,41,중간,2025-03-12T10:29:01,매칭완료,Rerum fugiat ipsam quia.,,0,84,2025-02-26T10:29:01,2025-02-26T10:29:01
+request_0184,shelter_0044,relief_item_0126,377,96,260,중간,2025-06-23T01:13:11,매칭완료,Fugit ipsum id dignissimos fugit.,,0,281,2025-06-23T01:13:11,2025-06-23T01:13:11
+request_0185,shelter_0029,relief_item_0034,226,187,37,낮음,2025-07-30T00:25:04,매칭완료,At cupiditate totam quam.,,0,39,2025-07-22T00:25:04,2025-07-22T00:25:04
+request_0186,shelter_0016,relief_item_0094,738,666,68,중간,2024-11-08T23:05:39,배송중,Quidem blanditiis laudantium non.,,0,72,2024-10-25T23:05:39,2024-10-25T23:05:39
+request_0187,shelter_0069,relief_item_0160,59,38,15,낮음,2025-06-27T20:16:52,대기중,Impedit distinctio at magni labore magni.,,0,21,2025-06-26T20:16:52,2025-06-26T20:16:52
+request_0188,shelter_0007,relief_item_0030,436,227,161,높음,2025-03-13T03:51:02,배송중,Ab rem id.,,0,209,2025-03-05T03:51:02,2025-03-05T03:51:02
+request_0189,shelter_0061,relief_item_0040,220,177,0,낮음,2025-08-07T17:08:52,배송중,Explicabo veniam saepe ipsa.,,0,43,2025-08-07T17:08:52,2025-08-07T17:08:52
+request_0190,shelter_0054,relief_item_0026,688,532,122,낮음,2025-08-12T22:52:40,매칭완료,Dolorem praesentium officiis repellat soluta.,,0,156,2025-08-03T22:52:40,2025-08-03T22:52:40
+request_0191,shelter_0054,relief_item_0027,533,120,377,높음,2024-09-26T20:27:57,대기중,Quas tempore aliquid sed debitis.,,0,413,2024-09-14T20:27:57,2024-09-14T20:27:57
+request_0192,shelter_0064,relief_item_0051,633,204,330,중간,2024-09-25T07:10:21,취소,Maxime consequuntur iusto aliquam.,,0,429,2024-09-12T07:10:21,2024-09-12T07:10:21
+request_0193,shelter_0026,relief_item_0092,730,419,274,높음,2025-04-28T05:45:41,취소,Sint optio fuga impedit culpa.,,0,311,2025-04-28T05:45:41,2025-04-28T05:45:41
+request_0194,shelter_0064,relief_item_0054,714,492,180,높음,2024-11-14T15:48:13,대기중,Vel vitae quia repellat.,,0,222,2024-11-14T15:48:13,2024-11-14T15:48:13
+request_0195,shelter_0012,relief_item_0029,865,587,193,중간,2024-11-20T05:30:16,대기중,Soluta autem cum libero esse numquam.,,0,278,2024-11-18T05:30:16,2024-11-18T05:30:16
+request_0196,shelter_0066,relief_item_0020,750,740,0,중간,2025-09-06T17:02:55,매칭완료,Numquam adipisci ad adipisci iusto.,,0,10,2025-08-27T17:02:55,2025-08-27T17:02:55
+request_0197,shelter_0059,relief_item_0076,280,237,37,높음,2025-07-04T02:58:16,매칭완료,Totam aliquid fugiat nisi.,,0,43,2025-06-21T02:58:16,2025-06-21T02:58:16
+request_0198,shelter_0006,relief_item_0075,378,346,0,중간,2025-04-11T15:59:41,대기중,Culpa accusamus tempore at.,,0,32,2025-03-31T15:59:41,2025-03-31T15:59:41
+request_0199,shelter_0013,relief_item_0012,19,4,0,낮음,2024-10-06T10:56:01,배송중,Voluptas iure impedit tempore.,,0,15,2024-10-04T10:56:01,2024-10-04T10:56:01
+request_0200,shelter_0046,relief_item_0113,988,636,318,낮음,2025-02-27T17:42:22,배송중,Sequi repellat a labore.,,0,352,2025-02-26T17:42:22,2025-02-26T17:42:22
+request_0201,shelter_0044,relief_item_0047,126,51,24,중간,2025-08-28T01:08:14,완료,Consectetur omnis facilis nostrum quaerat.,,0,75,2025-08-24T01:08:14,2025-08-24T01:08:14
+request_0202,shelter_0062,relief_item_0108,674,170,490,높음,2025-03-24T06:03:25,대기중,Quibusdam sequi deserunt dolor consectetur velit dolorem.,,0,504,2025-03-13T06:03:25,2025-03-13T06:03:25
+request_0203,shelter_0021,relief_item_0027,436,302,73,낮음,2024-10-20T14:47:23,완료,Quaerat eligendi nostrum dolorum.,,0,134,2024-10-10T14:47:23,2024-10-10T14:47:23
+request_0204,shelter_0024,relief_item_0157,398,398,0,낮음,2024-12-15T01:09:12,매칭완료,Quas error quae iure.,,0,0,2024-12-15T01:09:12,2024-12-15T01:09:12
+request_0205,shelter_0062,relief_item_0125,125,113,0,중간,2025-04-26T03:14:42,대기중,Maxime voluptates eaque tempore eveniet fugiat corporis.,,0,12,2025-04-26T03:14:42,2025-04-26T03:14:42
+request_0206,shelter_0034,relief_item_0081,22,22,0,낮음,2025-07-03T16:34:29,취소,Quibusdam reiciendis odio.,,0,0,2025-06-21T16:34:29,2025-06-21T16:34:29
+request_0207,shelter_0073,relief_item_0058,988,685,260,낮음,2025-07-22T03:09:56,취소,Voluptatem accusamus odio saepe dolores.,,0,303,2025-07-14T03:09:56,2025-07-14T03:09:56
+request_0208,shelter_0013,relief_item_0111,687,254,372,중간,2025-02-19T18:50:16,완료,Accusamus laboriosam similique deleniti sit voluptas.,,0,433,2025-02-09T18:50:16,2025-02-09T18:50:16
+request_0209,shelter_0020,relief_item_0143,923,627,290,높음,2025-02-23T05:43:44,매칭완료,Voluptatibus iste ea ipsam quia omnis maiores.,,0,296,2025-02-13T05:43:44,2025-02-13T05:43:44
+request_0210,shelter_0065,relief_item_0121,882,507,354,높음,2025-01-29T17:03:58,완료,Voluptatum delectus exercitationem sit quo itaque.,,0,375,2025-01-17T17:03:58,2025-01-17T17:03:58
+request_0211,shelter_0042,relief_item_0062,348,142,200,낮음,2024-10-19T04:12:36,취소,Quis ea quos incidunt ad molestiae.,,0,206,2024-10-16T04:12:36,2024-10-16T04:12:36
+request_0212,shelter_0049,relief_item_0104,846,240,596,중간,2024-10-22T10:18:55,취소,Voluptate rerum blanditiis quae commodi.,,0,606,2024-10-15T10:18:55,2024-10-15T10:18:55
+request_0213,shelter_0058,relief_item_0023,887,510,320,중간,2025-01-22T16:49:33,완료,Iste mollitia vel vitae voluptas.,,0,377,2025-01-21T16:49:33,2025-01-21T16:49:33
+request_0214,shelter_0003,relief_item_0027,423,211,208,낮음,2024-11-26T14:48:13,대기중,Reprehenderit suscipit magni consequuntur perspiciatis quod.,,0,212,2024-11-18T14:48:13,2024-11-18T14:48:13
+request_0215,shelter_0012,relief_item_0155,996,633,282,중간,2024-12-08T20:32:16,취소,Minima quod natus minus aliquid modi.,,0,363,2024-11-24T20:32:16,2024-11-24T20:32:16
+request_0216,shelter_0072,relief_item_0053,680,467,170,중간,2025-04-19T04:50:19,대기중,Possimus voluptatum cumque culpa perspiciatis.,,0,213,2025-04-06T04:50:19,2025-04-06T04:50:19
+request_0217,shelter_0029,relief_item_0117,349,286,0,낮음,2025-05-22T06:29:54,완료,Dolorem ut quaerat molestiae veritatis incidunt dicta aliquid.,,0,63,2025-05-13T06:29:54,2025-05-13T06:29:54
+request_0218,shelter_0047,relief_item_0116,126,12,17,낮음,2025-02-14T09:08:19,대기중,Harum maxime in labore eum.,,0,114,2025-02-11T09:08:19,2025-02-11T09:08:19
+request_0219,shelter_0044,relief_item_0091,859,648,174,낮음,2025-06-23T22:02:40,배송중,A dolorum nam est ullam.,,0,211,2025-06-15T22:02:40,2025-06-15T22:02:40
+request_0220,shelter_0014,relief_item_0012,928,168,697,높음,2025-05-17T19:24:00,완료,Vero animi illum corporis reprehenderit quisquam rem veritatis.,,0,760,2025-05-04T19:24:00,2025-05-04T19:24:00
+request_0221,shelter_0014,relief_item_0066,635,200,411,높음,2024-12-25T20:39:09,완료,Ratione officia hic deserunt rerum architecto.,,0,435,2024-12-11T20:39:09,2024-12-11T20:39:09
+request_0222,shelter_0028,relief_item_0118,854,800,30,낮음,2024-12-29T23:16:12,대기중,Tempora commodi qui velit.,,0,54,2024-12-24T23:16:12,2024-12-24T23:16:12
+request_0223,shelter_0054,relief_item_0012,958,648,224,낮음,2024-11-07T16:02:32,완료,Ipsam perferendis quis ab blanditiis.,,0,310,2024-11-06T16:02:32,2024-11-06T16:02:32
+request_0224,shelter_0059,relief_item_0151,989,516,456,중간,2025-01-07T12:57:35,취소,Aut occaecati iusto optio error commodi quia.,,0,473,2025-01-07T12:57:35,2025-01-07T12:57:35
+request_0225,shelter_0007,relief_item_0142,967,443,450,중간,2025-03-18T03:44:40,취소,Architecto voluptatem tenetur exercitationem.,,0,524,2025-03-04T03:44:40,2025-03-04T03:44:40
+request_0226,shelter_0023,relief_item_0149,187,187,0,높음,2024-12-29T08:54:53,취소,Fugit tempora beatae.,,0,0,2024-12-23T08:54:53,2024-12-23T08:54:53
+request_0227,shelter_0078,relief_item_0083,526,393,80,낮음,2025-03-22T21:04:03,매칭완료,Nesciunt soluta porro recusandae quis dolore.,,0,133,2025-03-08T21:04:03,2025-03-08T21:04:03
+request_0228,shelter_0036,relief_item_0102,996,351,608,중간,2024-10-30T17:13:48,매칭완료,Voluptatum nobis nobis facere.,,0,645,2024-10-18T17:13:48,2024-10-18T17:13:48
+request_0229,shelter_0018,relief_item_0106,626,524,64,낮음,2025-08-20T07:46:03,배송중,Saepe vitae in odit sint eius quam.,,0,102,2025-08-12T07:46:03,2025-08-12T07:46:03
+request_0230,shelter_0071,relief_item_0056,215,53,83,낮음,2024-12-28T19:59:13,배송중,Odit eveniet pariatur dolorum explicabo.,,0,162,2024-12-24T19:59:13,2024-12-24T19:59:13
+request_0231,shelter_0017,relief_item_0046,525,330,105,높음,2024-09-25T17:12:47,배송중,Quae laborum nesciunt dolore.,,0,195,2024-09-13T17:12:47,2024-09-13T17:12:47
+request_0232,shelter_0072,relief_item_0123,606,584,0,낮음,2025-03-02T03:44:05,취소,Aut quos provident natus saepe.,,0,22,2025-02-24T03:44:05,2025-02-24T03:44:05
+request_0233,shelter_0037,relief_item_0109,837,13,758,높음,2025-02-01T15:39:04,완료,Maxime unde fugit nobis nihil recusandae veritatis nemo.,,0,824,2025-02-01T15:39:04,2025-02-01T15:39:04
+request_0234,shelter_0019,relief_item_0014,696,57,614,중간,2024-11-05T07:39:50,매칭완료,Facere perferendis temporibus in hic.,,0,639,2024-10-24T07:39:50,2024-10-24T07:39:50
+request_0235,shelter_0037,relief_item_0065,159,15,56,중간,2025-06-27T18:12:10,취소,Expedita ratione sequi.,,0,144,2025-06-24T18:12:10,2025-06-24T18:12:10
+request_0236,shelter_0005,relief_item_0092,843,463,367,낮음,2025-05-02T08:41:42,취소,Alias id rem quia inventore tenetur dolor.,,0,380,2025-04-19T08:41:42,2025-04-19T08:41:42
+request_0237,shelter_0029,relief_item_0144,408,121,222,낮음,2024-11-21T21:19:49,대기중,Occaecati eveniet eos.,,0,287,2024-11-17T21:19:49,2024-11-17T21:19:49
+request_0238,shelter_0049,relief_item_0100,436,403,0,중간,2025-02-23T18:11:33,대기중,Quas sed ducimus.,,0,33,2025-02-15T18:11:33,2025-02-15T18:11:33
+request_0239,shelter_0002,relief_item_0065,217,158,0,중간,2025-08-05T12:28:46,매칭완료,Explicabo vitae eius quos eveniet praesentium.,,0,59,2025-07-23T12:28:46,2025-07-23T12:28:46
+request_0240,shelter_0048,relief_item_0151,569,201,269,낮음,2025-05-16T05:33:58,배송중,Quisquam cum nam sint officia.,,0,368,2025-05-13T05:33:58,2025-05-13T05:33:58
+request_0241,shelter_0058,relief_item_0046,709,76,610,높음,2025-07-04T08:36:06,취소,Quidem quos cupiditate libero at explicabo.,,0,633,2025-06-23T08:36:06,2025-06-23T08:36:06
+request_0242,shelter_0016,relief_item_0097,51,27,0,낮음,2025-04-09T17:26:40,매칭완료,Et esse totam at illo.,,0,24,2025-04-05T17:26:40,2025-04-05T17:26:40
+request_0243,shelter_0021,relief_item_0150,876,261,615,중간,2025-05-15T04:19:35,매칭완료,Odit quidem dicta sequi laborum excepturi ipsa.,,0,615,2025-05-08T04:19:35,2025-05-08T04:19:35
+request_0244,shelter_0006,relief_item_0040,960,330,554,높음,2025-02-08T01:48:51,취소,Vero eum beatae neque.,,0,630,2025-01-27T01:48:51,2025-01-27T01:48:51
+request_0245,shelter_0039,relief_item_0126,818,586,162,중간,2025-08-28T15:38:44,배송중,Praesentium natus quidem modi id possimus dicta.,,0,232,2025-08-27T15:38:44,2025-08-27T15:38:44
+request_0246,shelter_0068,relief_item_0057,989,188,735,높음,2024-10-25T20:38:51,취소,Totam optio sequi corporis excepturi explicabo consequatur harum.,,0,801,2024-10-13T20:38:51,2024-10-13T20:38:51
+request_0247,shelter_0021,relief_item_0107,566,549,0,높음,2025-08-07T20:47:32,매칭완료,Nostrum voluptas eum dolore repudiandae.,,0,17,2025-08-02T20:47:32,2025-08-02T20:47:32
+request_0248,shelter_0028,relief_item_0085,349,184,128,높음,2024-12-25T04:43:14,취소,Culpa voluptatibus ad dolore possimus dolor soluta.,,0,165,2024-12-13T04:43:14,2024-12-13T04:43:14
+request_0249,shelter_0068,relief_item_0122,584,9,561,낮음,2025-03-03T17:08:51,완료,Corporis error vitae similique laboriosam.,,0,575,2025-02-26T17:08:51,2025-02-26T17:08:51
+request_0250,shelter_0031,relief_item_0158,950,636,283,높음,2025-03-08T04:02:33,배송중,Nam voluptatum deleniti delectus maxime id.,,0,314,2025-02-26T04:02:33,2025-02-26T04:02:33
