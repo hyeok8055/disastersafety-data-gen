@@ -65,7 +65,7 @@ print(f"Shape: {users_df.shape}")
 print(f"User types: {users_df['user_type'].value_counts()}")
 ```
 
-### 3.2 구호품 마스터 데이터 (relief_items)
+### 3.2 구호품 마스터 데이터 (relief\_items)
 
 ```python
 def create_relief_items_dataframe():
@@ -202,7 +202,7 @@ print(f"Status: {shelters_df['status'].value_counts()}")
 
 ## 4. AI/ML 모델을 위한 시계열 데이터 생성
 
-### 4.1 대피소 통계 시계열 데이터 (shelter_statistics)
+### 4.1 대피소 통계 시계열 데이터 (shelter\_statistics)
 
 ```python
 def create_shelter_statistics_dataframe(shelters_df, start_date='2024-01-01', end_date='2024-12-31'):
@@ -295,7 +295,7 @@ print(f"Shape: {shelter_stats_df.shape}")
 print(f"Date range: {shelter_stats_df['statistics_date'].min()} to {shelter_stats_df['statistics_date'].max()}")
 ```
 
-### 4.2 소비 패턴 데이터 (consumption_patterns)
+### 4.2 소비 패턴 데이터 (consumption\_patterns)
 
 ```python
 def create_consumption_patterns_dataframe(shelters_df, relief_items_df, start_date='2024-01-01', end_date='2024-12-31'):
@@ -379,7 +379,7 @@ print(f"Shape: {consumption_patterns_df.shape}")
 
 ## 5. 추천 알고리즘을 위한 사용자 행동 데이터
 
-### 5.1 사용자 행동 로그 (user_behaviors)
+### 5.1 사용자 행동 로그 (user\_behaviors)
 
 ```python
 def create_user_behaviors_dataframe(users_df, shelters_df, relief_items_df, num_sessions_per_user=10):
@@ -475,7 +475,7 @@ print(f"Shape: {user_behaviors_df.shape}")
 print(f"Action types: {user_behaviors_df['action_type'].value_counts()}")
 ```
 
-### 5.2 사용자 선호도 데이터 (user_preferences)
+### 5.2 사용자 선호도 데이터 (user\_preferences)
 
 ```python
 def create_user_preferences_dataframe(users_df, user_behaviors_df):
@@ -540,7 +540,7 @@ print(f"Shape: {user_preferences_df.shape}")
 
 ## 6. 기부 및 매칭 데이터 생성
 
-### 6.1 기부 데이터 (donations, donation_items)
+### 6.1 기부 데이터 (donations, donation\_items)
 
 ```python
 def create_donations_dataframe(users_df, relief_items_df, num_donations=500):
@@ -856,40 +856,59 @@ demonstrate_data_usage()
 이 가이드를 통해 다음과 같은 데이터프레임을 생성했습니다:
 
 1. **기본 마스터 데이터**
-   - `users_df`: 사용자 정보 (1,000명)
-   - `relief_items_df`: 구호품 마스터 (21개 품목)
-   - `shelters_df`: 대피소 정보 (50개)
+
+   * `users_df`: 사용자 정보 (1,000명)
+
+   * `relief_items_df`: 구호품 마스터 (21개 품목)
+
+   * `shelters_df`: 대피소 정보 (50개)
 
 2. **운영 데이터**
-   - `donations_df`: 기부 정보 (500건)
-   - `donation_items_df`: 기부 품목 상세
+
+   * `donations_df`: 기부 정보 (500건)
+
+   * `donation_items_df`: 기부 품목 상세
 
 3. **AI/ML 특화 데이터**
-   - `shelter_stats_df`: 대피소 일별 통계 (시계열)
-   - `consumption_patterns_df`: 시간별 소비 패턴
-   - `user_behaviors_df`: 사용자 행동 로그
-   - `user_preferences_df`: 사용자 선호도
+
+   * `shelter_stats_df`: 대피소 일별 통계 (시계열)
+
+   * `consumption_patterns_df`: 시간별 소비 패턴
+
+   * `user_behaviors_df`: 사용자 행동 로그
+
+   * `user_preferences_df`: 사용자 선호도
 
 4. **모델 학습용 데이터**
-   - `lstm_data`: LSTM 모델 학습용 특성 데이터
-   - `user_features_df`: 추천 알고리즘용 사용자 특성
+
+   * `lstm_data`: LSTM 모델 학습용 특성 데이터
+
+   * `user_features_df`: 추천 알고리즘용 사용자 특성
 
 ### 9.2 다음 단계 권장사항
 
 1. **데이터 품질 개선**
-   - 실제 재난 데이터를 참고하여 더 현실적인 패턴 구현
-   - 지역별, 계절별 특성을 더 정교하게 반영
+
+   * 실제 재난 데이터를 참고하여 더 현실적인 패턴 구현
+
+   * 지역별, 계절별 특성을 더 정교하게 반영
 
 2. **모델 개발**
-   - LSTM 모델: 다변량 시계열 예측 구현
-   - 추천 알고리즘: 협업 필터링 및 콘텐츠 기반 필터링 구현
+
+   * LSTM 모델: 다변량 시계열 예측 구현
+
+   * 추천 알고리즘: 협업 필터링 및 콘텐츠 기반 필터링 구현
 
 3. **데이터 확장**
-   - 더 많은 대피소와 사용자 데이터 생성
-   - 실시간 스트리밍 데이터 시뮬레이션
+
+   * 더 많은 대피소와 사용자 데이터 생성
+
+   * 실시간 스트리밍 데이터 시뮬레이션
 
 4. **성능 최적화**
-   - 대용량 데이터 처리를 위한 파티셔닝 구현
-   - 인덱싱 및 쿼리 최적화
+
+   * 대용량 데이터 처리를 위한 파티셔닝 구현
+
+   * 인덱싱 및 쿼리 최적화
 
 이 데이터를 기반으로 이어드림 플랫폼의 AI/ML 모델을 효과적으로 학습시키고, 실제 서비스에서 정확한 예측과 추천을 제공할 수 있습니다.
