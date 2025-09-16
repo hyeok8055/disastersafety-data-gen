@@ -1,0 +1,37 @@
+{
+  "scaler": {
+    "mean": 0.3370289819049513,
+    "std": 0.8399972024823621
+  },
+  "meta": {
+    "feature_cols": [
+      "y_t",
+      "cons_ma7",
+      "cons_ma14",
+      "cons_ma28",
+      "seasonality_가을",
+      "seasonality_겨울",
+      "seasonality_봄",
+      "seasonality_여름",
+      "disaster_severity_낮음",
+      "disaster_severity_높음",
+      "disaster_severity_중간",
+      "weather_눈",
+      "weather_더위",
+      "weather_비",
+      "weather_일반",
+      "weather_추위"
+    ],
+    "continuous_cols": [
+      "y_t",
+      "cons_ma7",
+      "cons_ma14",
+      "cons_ma28"
+    ],
+    "lookback": 28,
+    "hidden": 64,
+    "layers": 2,
+    "dropout": 0.1,
+    "val_loss": 0.24291275441646576
+  }
+}

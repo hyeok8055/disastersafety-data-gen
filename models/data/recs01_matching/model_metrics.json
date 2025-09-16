@@ -1,0 +1,15 @@
+{
+  "roc_auc": null,
+  "roc_auc_error": "Only one class present in y_true. ROC AUC score is not defined in that case.",
+  "pr_auc": -0.0,
+  "features": [
+    "requested_quantity",
+    "current_stock",
+    "wish_remaining_quantity",
+    "remaining_need",
+    "urgency_score",
+    "need_ratio",
+    "distance_km"
+  ],
+  "samples": 468
+}

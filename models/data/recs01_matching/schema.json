@@ -1,0 +1,17 @@
+{
+  "primary_key": [
+    "user_id",
+    "wish_id",
+    "request_id"
+  ],
+  "label": "label",
+  "features": [
+    "requested_quantity",
+    "current_stock",
+    "wish_remaining_quantity",
+    "remaining_need",
+    "urgency_score",
+    "need_ratio",
+    "distance_km"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "primary_key": [
+    "shelter_id",
+    "relief_item_id"
+  ],
+  "label": "label",
+  "features": [
+    "consumed_days",
+    "consumed_qty",
+    "daily_rate",
+    "total_requested",
+    "total_remaining",
+    "urgent",
+    "popularity"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "index": [
+    "shelter_id",
+    "relief_item_id",
+    "date"
+  ],
+  "target": "y_t",
+  "features_example": [
+    "cons_ma7",
+    "cons_ma14",
+    "cons_ma28"
+  ]
+}
